@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "swift developer",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+      "tags": ["kotlin", "swift", "dart"]
+    },
+    {
+      "id": 2,
+      "title": "dart developer",
+      "body": "voluptatum repellendus consequuntur vitae culpa optio, cum maiores fugit ",
+      "tags": ["react", "vue", "inferno"]
+    },
+    {
+      "id": 3,
+      "title": "flutter developer",
+      "body": "possimus deserunt quibusdam! Autem a voluptate odit",
+      "tags": ["java", "php", "c"]
+    }
+  ]
+}
